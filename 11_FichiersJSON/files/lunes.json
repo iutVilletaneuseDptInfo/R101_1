@@ -1,0 +1,10 @@
+{
+    "Mercure": 0,
+    "Vénus": 0,
+    "Terre": 1,
+    "Mars": 2,
+    "Jupiter": 63,
+    "Saturne": 61,
+    "Uranus": 27,
+    "Neptune": 13
+}
