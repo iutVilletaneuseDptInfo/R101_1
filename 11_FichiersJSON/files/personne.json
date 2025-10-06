@@ -1,0 +1,11 @@
+{
+    "nom": "Albert",
+    "âge": 37,
+    "email": "albert99@gmail.com",
+    "loisirs": [
+        "Sport",
+        "Cinéma",
+        "Lecture",
+        "Voyage"
+    ]
+}
