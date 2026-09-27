@@ -1,0 +1,12 @@
+{
+  "pseudo": "DrakoNeige",
+  "niveau": 12,
+  "vivant": true,
+  "inventaire": ["Épée", "Bouclier", "Potion de soin"],
+  "statistiques": {"force": 18, "agilite": 12, "magie": 7},
+  "quetes": [
+    {"nom": "Forêt Sombre", "terminee": true},
+    {"nom": "Tour du Dragon", "terminee": false},
+    {"nom": "Grotte Glacée", "terminee": false}
+  ]
+}

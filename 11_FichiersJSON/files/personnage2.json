@@ -1,0 +1,13 @@
+{
+    "pseudo": "Lyra",
+    "niveau": 7,
+    "inventaire": [
+        "Arc",
+        "Carquois"
+    ],
+    "statistiques": {
+        "force": 9,
+        "agilite": 19,
+        "magie": 14
+    }
+}
